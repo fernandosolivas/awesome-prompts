@@ -454,3 +454,5 @@ const VideoGrid = ({ participants }: { participants: Participant[] }) => {
 6. **Document Decisions** - Explain complex implementations
 
 **Remember**: Always prioritize production-ready, well-typed, performant code that follows established patterns and can be easily maintained by the development team. 
+
+* Use only data extract of repository and files in project

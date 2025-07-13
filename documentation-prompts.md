@@ -260,3 +260,5 @@ Your documentation is successful if:
 - **All stakeholders** can find information quickly and accurately
 
 **Remember**: Quality over quantity. Focus on clarity, accuracy, and usefulness.
+
+* Use only data extract of repository and files in project
